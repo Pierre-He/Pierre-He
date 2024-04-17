@@ -10,7 +10,7 @@ A software engineer that was once dreaming of being a professionnal illustrator.
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,nodejs,cs,python,react,vue,angular,docker,git,figma,latex,arduino,fig&theme=dark)](https://skillicons.dev)
 This list can be expanded indefinitely...
 
-📝 My Goals
+📝 My Current Goals
 -----
 * Be able to create efficient User Interface that incorporate psychology tricks to enhance the User Experience.
 * A beautiful front-end is better when it interacts, so the back-end skills are second in the list.
