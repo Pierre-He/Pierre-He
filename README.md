@@ -14,6 +14,7 @@ This list can be expanded indefinitely...
 -----
 * Be able to create efficient User Interface that incorporate psychology tricks to enhance the User Experience.
 * A beautiful front-end is better when it interacts, so the back-end skills are second in the list.
+* A portfolio website that host personnal works to bridge my hobbies and Software Engineering career
 
 
 
