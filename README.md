@@ -5,7 +5,7 @@
 
 🧰 My Tools (still learning !)
 -----
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,nodejs,cs,react,vue,angular,docker,git,fig&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,nodejs,cs,react,vue,angular,docker,git,figma,latex,arduino,fig&theme=dark)](https://skillicons.dev)
 
 
 📝 My Goals
