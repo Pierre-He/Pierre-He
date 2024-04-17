@@ -5,7 +5,7 @@
 A software engineer that was once dreaming of being a professionnal illustrator. Even thought he is not, the artistic eye can still be applied to a website design. This is his chance to safely incorporate passion into a technical field.
 
 
-🧰 My Tools (still learning !)
+🧰 My Tools
 -----
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,nodejs,cs,python,react,vue,angular,docker,git,figma,latex,arduino,fig&theme=dark)](https://skillicons.dev)
 More to come, soon...
