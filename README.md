@@ -1,14 +1,15 @@
 ### Hello World, the name's Pierre HE 👋
 
 🤺 About me
-
+-----
 
 🧰 My Tools (still learning !)
+-----
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,nodejs,cs,dotnet,react,vue,angular,docker,git,fig&theme=dark)](https://skillicons.dev)
 
 
 📝 My Goals
-
+-----
 
 
 
