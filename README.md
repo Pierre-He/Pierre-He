@@ -8,7 +8,7 @@ A software engineer that was once dreaming of being a professionnal illustrator.
 🧰 My Tools (still learning !)
 -----
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,nodejs,cs,python,react,vue,angular,docker,git,figma,latex,arduino,fig&theme=dark)](https://skillicons.dev)
-More to come, coming soon...
+More to come, soon...
 
 📝 My Current Goals
 -----
